@@ -33,10 +33,10 @@ const ConsignApp = props => {
           <GetPriceEstimate />
           <HowToSell />
           <ConsignInDemandNow />
+          <ReadMore />
 
           <HorizontalPadding>
             <SoldRecently />
-            <ReadMore />
             <ContactUs />
             <FAQ />
             <SellWithArtsy />
